@@ -1,0 +1,8 @@
+﻿<wpf:Polygon  xmlns:wpf="http://schemas.microsoft.com/netfx/2009/xaml/presentation" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              Points="300,200 400,125 400,275 300,200"  
+    Stroke="Blue"
+    StrokeThickness="5">
+    <wpf:Polygon.Fill>
+        <av:SolidColorBrush Color="Green" Opacity="10"/>
+    </wpf:Polygon.Fill>
+</wpf:Polygon>
